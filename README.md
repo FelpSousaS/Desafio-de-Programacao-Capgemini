@@ -18,7 +18,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 <br />
 :small_blue_diamond: Como entrada é preciso informar um **n** como solicitado no enunciado acima.
 <br />
-<br /> :small_blue_diamond: Demonstração da Saída do meu código:
+<br /> ☑️ Demonstração da Saída do meu código:
 
 --- ![qts1_fe_emp](https://user-images.githubusercontent.com/85742339/154378698-4fc22c9f-0e4a-41ce-a959-2ca3755ea70d.jpeg)
 
@@ -36,7 +36,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 <br />
 :small_blue_diamond: Como entrada é preciso informar uma **senha** como solicitado no enunciado acima.
 <br />
-<br /> :small_blue_diamond: Demonstração da Saída do meu código:
+<br /> ☑️ Demonstração da Saída do meu código:
 
 
 ---![WhatsApp Image 2022-02-16 at 21 42 26](https://user-images.githubusercontent.com/85742339/154382554-703da87e-0c79-47d4-a78a-37f4003702da.jpeg)
@@ -48,7 +48,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 #### Fiz a versão da solução com JOptionPane em que o algoritmo informa se todos os critérios para que a senha seja considerada forte estão contidos na senha fornecida.
 <br />
-<br /> :small_blue_diamond: Demonstração da Saída do meu código com **JOptionPane** :
+<br /> ☑️ Demonstração da Saída do meu código com **JOptionPane** :
 
 ##### Ex: **Senha fraca**
 ![WhatsApp Image 2022-02-16 at 21 45 08](https://user-images.githubusercontent.com/85742339/154382835-1c2b44ff-ace7-4f1c-b246-e860cdee6589.jpeg)
@@ -69,7 +69,27 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 >Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
-# Desenvolvimento em construção!
+<br />
+:small_blue_diamond: Como entrada é preciso informar uma **String** como solicitado no enunciado acima.
+<br />
+<br /> ☑️ Demonstração da Saída do meu código:
+
+
+---![WhatsApp Image 2022-02-17 at 17 21 24](https://user-images.githubusercontent.com/85742339/154564546-b7cb6dae-2324-480d-b023-2335415eb5d1.jpeg)
+
+#### :eight_pointed_black_star: Também optei por fazer uma versão da solução com JOptionPane(Questão3_v2) em que o algoritmo informa o número de pares de substrings que são anagramas.
+
+<br />
+<br /> ☑️ Demonstração da Saída do meu código com **JOptionPane** :
+
+##### Ex: **Entrada : ifailuhkqq**
+
+![WhatsApp Image 2022-02-17 at 17 23 47](https://user-images.githubusercontent.com/85742339/154564992-fbe3e525-bd7f-4e31-9c99-e1f8a682a54e.jpeg)
+
+
+##### Saída :
+
+![WhatsApp Image 2022-02-17 at 17 25 51](https://user-images.githubusercontent.com/85742339/154565006-779f728f-1e96-4569-a4cf-af6795d7a0ce.jpeg)
 
 
 
