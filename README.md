@@ -14,7 +14,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 ## :pencil: Questão 01 
 
 > Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
-
+<br />
 :small_blue_diamond: Como entrada é preciso informar um **n** como solicitado no enunciado acima.
 <br />
 <br /> :small_blue_diamond: Demonstração da Saída do meu código:
@@ -32,10 +32,8 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 > <br /> ▪️Os caracteres especiais são: !@#$%^&*()-+
 > <br />
 > <br />  Débora digitou uma string aleatória no campo de senha, porém ela não tem certeza se é uma senha forte. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
-
-
+<br />
 :small_blue_diamond: Como entrada é preciso informar uma **senha** como solicitado no enunciado acima.
-
 <br />
 <br /> :small_blue_diamond: Demonstração da Saída do meu código:
 
