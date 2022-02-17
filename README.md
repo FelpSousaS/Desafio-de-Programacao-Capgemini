@@ -12,7 +12,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 :white_small_square: Obs: A questão 2 também foi desenvolvida e disponibilizada via console.
 
-## Instruções 
+## :bulb: Instruções 
 
 Para executar os códigos basta fazer a importação da pasta para a sua IDE.
 <br />
