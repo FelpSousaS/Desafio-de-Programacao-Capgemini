@@ -42,9 +42,9 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 ---![WhatsApp Image 2022-02-16 at 21 42 26](https://user-images.githubusercontent.com/85742339/154382554-703da87e-0c79-47d4-a78a-37f4003702da.jpeg)
 
 
-#### :eight_pointed_black_star: Como informado no inicio do Readme, eu desenvolvi essa questão 2 usando a classe JOptionPane e como na questão é solicitado : 
+#### :eight_pointed_black_star: Como informado no inicio do Readme, eu desenvolvi uma versão (Questão2_v2.java) da Questão 2 usando a classe JOptionPane e como na questão é solicitado : 
 
-> construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
+> "construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura."
 
 #### Fiz a versão da solução com JOptionPane em que o algoritmo informa se todos os critérios para que a senha seja considerada forte estão contidos na senha fornecida.
 
