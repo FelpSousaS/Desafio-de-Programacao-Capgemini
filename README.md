@@ -15,9 +15,9 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 > Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
-Como entrada é preciso informar um **n** como solicitado no enunciado acima.
+:small_blue_diamond: Como entrada é preciso informar um **n** como solicitado no enunciado acima.
 <br />
-<br />Demonstração da Saída do meu código:
+<br /> :small_blue_diamond: Demonstração da Saída do meu código:
 
 
 
