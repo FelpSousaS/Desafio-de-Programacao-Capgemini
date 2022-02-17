@@ -2,8 +2,9 @@
 # :large_orange_diamond: Desafio-de-Programacao-Capgemini :ballot_box_with_check:
 Desafio proposto pela Academia Técnica Capgemini 2022
 
-## ◼️	Linguagem:
-![ícones_java](https://user-images.githubusercontent.com/85742339/154375764-b5715920-4b1e-4a32-a252-d8aa4f0c5360.png)
+## ◼️	Linguagem/Ferramenta:
+![ícones__java](https://user-images.githubusercontent.com/85742339/154541324-42e15bbe-a80c-4dc7-97ee-010b8a09da16.png) ![kisspng-eclipse-computer-icons-integrated-development-envi-eclipse-5ac531e06e53a4 8254461715228728004519 (6)](https://user-images.githubusercontent.com/85742339/154541140-f42fe880-8f6a-4856-a842-ca0b881f5e2c.png)
+
 
 ##### ◼️ JOptionPane
 
@@ -51,6 +52,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 ##### Ex: **Senha fraca**
 ![WhatsApp Image 2022-02-16 at 21 45 08](https://user-images.githubusercontent.com/85742339/154382835-1c2b44ff-ace7-4f1c-b246-e860cdee6589.jpeg)
+
 
 
 ![WhatsApp Image 2022-02-16 at 21 46 53](https://user-images.githubusercontent.com/85742339/154382846-27a4c29d-b6b3-4ba1-88bb-ac98aee34a6a.jpeg)
