@@ -12,9 +12,9 @@ Desafio proposto pela Academia Técnica Capgemini 2022
 
 ##### ◼️ JOptionPane
 
-Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa de dialogo padrão para receber e imprimir os casos de teste, não foi algo exigido no desafio mas desenvolvi a versão com o JoptionPane como algo além do solicitado para deixar a saída mais organizada e visual.
+Na Questões 2 e 3 utilizei a classe JOptionPane que possibilita a criação de caixa de dialogo padrão para receber e imprimir os casos de teste, não foi algo exigido no desafio mas desenvolvi a versão com o JoptionPane como algo além do solicitado para deixar a saída mais organizada e visual.
 
-:white_small_square: Obs: A questão 2 também foi desenvolvida e disponibilizada via console.
+:white_small_square: Obs: A questões 2 e 3 também foram desenvolvidas e disponibilizadas via console.
 
 ## :bulb: Instruções 
 
@@ -95,7 +95,7 @@ Para executar os códigos basta fazer a importação da pasta para a sua IDE.
 
 ---![WhatsApp Image 2022-02-17 at 17 21 24](https://user-images.githubusercontent.com/85742339/154564546-b7cb6dae-2324-480d-b023-2335415eb5d1.jpeg)
 
-#### :eight_pointed_black_star: Também optei por fazer uma versão da solução com JOptionPane(Questão3_v2) em que o algoritmo informa o número de pares de substrings que são anagramas.
+#### :eight_pointed_black_star: Como informado no inicio do Readme, desenvolvi uma versão da solução com JOptionPane(Questão3_v2) em que o algoritmo informa o número de pares de substrings que são anagramas.
 
 <br />
 <br /> ☑️ Demonstração da Saída do meu código com **JOptionPane** :
