@@ -51,13 +51,13 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 <br />
 <br /> :small_blue_diamond: Demonstração da Saída do meu código com **JOptionPane**:
 
-###### Ex: Senha fraca
+##### Ex: **Senha fraca**
 ![WhatsApp Image 2022-02-16 at 21 45 08](https://user-images.githubusercontent.com/85742339/154382835-1c2b44ff-ace7-4f1c-b246-e860cdee6589.jpeg)
 
 
 ![WhatsApp Image 2022-02-16 at 21 46 53](https://user-images.githubusercontent.com/85742339/154382846-27a4c29d-b6b3-4ba1-88bb-ac98aee34a6a.jpeg)
 
-###### Ex: Senha forte
+##### Ex: **Senha forte**
 
 
 ![WhatsApp Image 2022-02-16 at 21 48 19](https://user-images.githubusercontent.com/85742339/154382928-2f0fdabe-af2a-46cb-a960-782df185e910.jpeg)
