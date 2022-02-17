@@ -12,6 +12,13 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 :white_small_square: Obs: A questão 2 também foi desenvolvida e disponibilizada via console.
 
+## Instruções 
+
+Para executar os códigos basta fazer a importação da pasta para a sua IDE.
+<br />
+<br />
+
+
 ## :pencil: Questão 01 
 
 > Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
@@ -21,6 +28,10 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 <br /> ☑️ Demonstração da Saída do meu código:
 
 --- ![qts1_fe_emp](https://user-images.githubusercontent.com/85742339/154378698-4fc22c9f-0e4a-41ce-a959-2ca3755ea70d.jpeg)
+<br />
+<br />
+
+
 
 ## :pencil: Questão 02
 
@@ -64,6 +75,9 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 
 ![WhatsApp Image 2022-02-16 at 21 49 21](https://user-images.githubusercontent.com/85742339/154382932-6aadd1b9-171a-4041-ab89-532b179d35ec.jpeg)
+<br />
+<br />
+
 
 ## :pencil: Questão 03
 
