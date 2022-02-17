@@ -63,6 +63,12 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 ![WhatsApp Image 2022-02-16 at 21 49 21](https://user-images.githubusercontent.com/85742339/154382932-6aadd1b9-171a-4041-ab89-532b179d35ec.jpeg)
 
+## :pencil: Questão 03
+
+>Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
+
+# Desenvolvimento em construção!
+
 
 
 
