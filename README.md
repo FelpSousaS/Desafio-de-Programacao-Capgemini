@@ -47,7 +47,7 @@ Na Questão 2 utilizei a classe JOptionPane que possibilita a criação de caixa
 
 #### Fiz a versão da solução com JOptionPane em que o algoritmo informa se todos os critérios para que a senha seja considerada forte estão contidos na senha fornecida.
 <br />
-<br /> :small_blue_diamond: Demonstração da Saída do meu código com **JOptionPane**:
+<br /> :small_blue_diamond: Demonstração da Saída do meu código com __JOptionPane__:
 
 ##### Ex: **Senha fraca**
 ![WhatsApp Image 2022-02-16 at 21 45 08](https://user-images.githubusercontent.com/85742339/154382835-1c2b44ff-ace7-4f1c-b246-e860cdee6589.jpeg)
