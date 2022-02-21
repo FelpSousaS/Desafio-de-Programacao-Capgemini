@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Questao3 {
 	public static boolean verifica_anagrama(String subs1, String subs2) { // funcao que recebe duas substrings e retorna
-																		 // se elas s„o anagramas, ou nao.
+									     // se elas s√£o anagramas, ou nao.
 		
 		char[] c_sub1 = subs1.toCharArray(); // transformando subs1 em um vetor de caracteres
 		char[] c_sub2 = subs2.toCharArray();// transformando subs1 em um vetor de caracteres
